@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gral_C" size="1.000000 0.958071" />
+    <ImageTarget name="geometria_1" size="1.000000 0.832584" />
+    <ImageTarget name="general" size="1.000000 1.333333" />
+    <ImageTarget name="geometria" size="1.000000 1.333333" />
+    <ImageTarget name="aritmetica" size="1.000000 1.333333" />
+    <ImageTarget name="calculo" size="1.000000 1.333333" />
+    <ImageTarget name="gramatica" size="1.000000 1.333333" />
+    <ImageTarget name="musas" size="1.000000 1.333333" />
+    <ImageTarget name="retorica" size="1.000000 1.333333" />
+  </Tracking>
+</QCARConfig>
